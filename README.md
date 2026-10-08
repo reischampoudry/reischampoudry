@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Rafael Reis
 
 **`QA Analyst | QA Automation em Formação`**
+Buscando oportunidades como QA Junior.
 
 Olá! Meu nome é Rafael Reis, tenho 33 anos e sou formado em Letras pela UFMG.
 
